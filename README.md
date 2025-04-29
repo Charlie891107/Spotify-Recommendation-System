@@ -10,7 +10,7 @@ This project builds a content-based recommendation system to suggest Taylor Swif
   - **Cosine Similarity**: Match user profiles with albums based on average song attributes.
   - **K-Means Clustering**: Group songs into clusters and match users to clusters.
 
-## 🛠️ Files
+## 🧷 Files
 
 - `Taylor_Swift_Recommendations.ipynb`: Jupyter Notebook for building the recommendation system.
 - `Spotify Recommendation System.pdf`: Final project report with methodology, results, and evaluation.
