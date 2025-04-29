@@ -35,12 +35,14 @@ This project builds a content-based recommendation system to suggest Taylor Swif
 - Riya Gupta
 - Michelle Bresnan
 
-- 🛠️ **Tech Stack**
 
-- **Python Libraries**: Pandas, NumPy, scikit-learn
-- **Similarity Metrics**: Cosine Similarity
-- **Clustering**: K-Means
+## 🛠️ Tech Stack
+
+- **Languages & Tools**: Python, Jupyter Notebook
+- **Libraries**: Pandas, NumPy, scikit-learn
+- **ML Techniques**: Cosine Similarity, K-Means Clustering
 - **Visualization**: Matplotlib, Seaborn
-- **Notebook Environment**: Google Colab (Jupyter Notebook)
-- **Deployment**: GitHub (public repo)
+- **Platform**: Google Colab, GitHub
+- **Data Source**: Kaggle (Taylor Swift Songs Dataset)
+
 
