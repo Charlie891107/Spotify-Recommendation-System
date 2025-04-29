@@ -34,3 +34,13 @@ This project builds a content-based recommendation system to suggest Taylor Swif
 - Yixi “Claire” Cheng
 - Riya Gupta
 - Michelle Bresnan
+
+- 🛠️ **Tech Stack**
+
+- **Python Libraries**: Pandas, NumPy, scikit-learn
+- **Similarity Metrics**: Cosine Similarity
+- **Clustering**: K-Means
+- **Visualization**: Matplotlib, Seaborn
+- **Notebook Environment**: Google Colab (Jupyter Notebook)
+- **Deployment**: GitHub (public repo)
+
